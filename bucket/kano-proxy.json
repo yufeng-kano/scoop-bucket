@@ -1,12 +1,12 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Official kano-proxy CLI: expose local LLM servers as providers",
   "homepage": "https://github.com/yufeng-kano/kano-proxy",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/yufeng-kano/kano-proxy/releases/download/cli-v1.0.0/kano-proxy-1.0.0-x86_64-pc-windows-msvc.zip",
-      "hash": "cece1b1f191689ac8082ef354a314f74df06d10a57e6f4eb09a8b4ab628bcd7d"
+      "url": "https://github.com/yufeng-kano/kano-proxy/releases/download/cli-v1.1.0/kano-proxy-1.1.0-x86_64-pc-windows-msvc.zip",
+      "hash": "c1fe63de106b21b7d0666183ccbc7b5c9aa58d9ac73de4b107a23a88395b6e95"
     }
   },
   "bin": "kano-proxy.exe"
